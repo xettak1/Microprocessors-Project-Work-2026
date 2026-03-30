@@ -1,4 +1,4 @@
-# Real-Time Gas Leakage Detection and Alert System (ESP32)
+# Smart Gas Leakage Detection System
 
 ## Project Overview
 This project is an IoT-based safety solution designed to monitor air quality and detect gas leaks in real-time. Built on the ESP32 microcontroller, the system detects combustible gases using an MQ-2 sensor. It provides immediate local feedback via an LCD and alarms, while leveraging the Telegram Bot API to send instant remote alerts to a group chat.
